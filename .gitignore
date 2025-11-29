@@ -1,0 +1,30 @@
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.iml
+.idea/
+*.log
+
+# Node / Vue.js
+node_modules/
+dist/
+.env
+.npm/
+
+# Python
+__pycache__/
+*.pyc
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# VSCode
+.vscode/
