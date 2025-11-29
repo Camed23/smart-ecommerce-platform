@@ -22,9 +22,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Logs
-logs/
-*.log
-
 # VSCode
 .vscode/
+
+# IntelliJ
+.idea
