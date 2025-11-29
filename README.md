@@ -61,7 +61,7 @@ smart-ecommerce-platform/
 | Layer    | Tech                                                |
 | -------- | --------------------------------------------------- |
 | Backend  | Spring Boot · Spring Security · JWT · JPA · Swagger |
-| Frontend | Vue.js ·      |
+| Frontend | Vue.js                                              |
 | Database | PostgreSQL / MySQL                                  |
 | AI       | Python · Flask · Pandas · Scikit-Learn              |
 | DevOps   | Docker · GitHub Actions (CI/CD)                     |
@@ -88,7 +88,3 @@ Future release will include:
 * Frontend container
 * AI microservice container
 * Database container
-
-### **D) Tout faire dans l'ordre (backend → front → IA → intégration)** ?
-
-**Dis-moi la prochaine étape. Je m’adapte.**
