@@ -59,9 +59,9 @@ smart-ecommerce-platform/
 ## 🔧 Technologies
 
 | Layer    | Tech                                                |
-| -------- | --------------------------------------------------- |
+| -------- |-----------------------------------------------------|
 | Backend  | Spring Boot · Spring Security · JWT · JPA · Swagger |
-| Frontend | Vue.js                                              |
+| Frontend | Vue.js · Pinia · Axios · Tailwind or Bootstrap      |
 | Database | PostgreSQL / MySQL                                  |
 | AI       | Python · Flask · Pandas · Scikit-Learn              |
 | DevOps   | Docker · GitHub Actions (CI/CD)                     |
